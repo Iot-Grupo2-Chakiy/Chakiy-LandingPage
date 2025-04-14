@@ -1,0 +1,25 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo circular -->
+  <circle cx="50" cy="50" r="48" fill="#3498db" />
+  
+  <!-- Elemento circular interno -->
+  <circle cx="50" cy="50" r="40" fill="#2980b9" />
+  
+  <!-- Símbolo "404" estilizado y centrado -->
+  <g fill="#ffffff">
+    <!-- El "4" de 404 - izquierda -->
+    <path d="M30,30 L30,45 L25,45 L25,50 L30,50 L30,60 L35,60 L35,50 L45,50 L45,45 L35,45 L35,35 L45,35 L45,30 Z" />
+    
+    <!-- El "0" de 404 - centro -->
+    <circle cx="50" cy="45" r="10" fill="#2980b9" stroke="#ffffff" stroke-width="4" />
+    
+    <!-- El "4" de 404 - derecha -->
+    <path d="M70,30 L70,45 L65,45 L65,50 L70,50 L70,60 L75,60 L75,50 L85,50 L85,45 L75,45 L75,35 L85,35 L85,30 Z" />
+  </g>
+  
+  <!-- Símbolo de camino para representar "Chaki'y" (caminar) - centrado en la parte inferior -->
+  <path d="M25,75 C37,65 50,80 63,70 C75,60 85,70 85,75" stroke="#ffffff" stroke-width="4" fill="none" stroke-linecap="round" />
+  
+  <!-- Punto que representa tecnología/conectividad -->
+  <circle cx="50" cy="62" r="4" fill="#ffffff" />
+</svg>
