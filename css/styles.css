@@ -138,9 +138,10 @@ header {
     color: var(--primary);
 }
 
-.logo img {
-    height: 40px;
-    margin-right: 10px;
+.logo-img {
+    height: 60px; /* Aumentar la altura de la imagen */
+    width: auto; /* Mantener la proporción de la imagen */
+    margin-right: 15px; /* Espacio entre la imagen y el texto */
 }
 
 .nav-links {
